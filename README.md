@@ -2,6 +2,8 @@ Laravel based project to create a program for senior store
 
 
 
+For homestead users:
+
 I can't upload vendor directory & .env files so you have to copy those files manually
 
 
